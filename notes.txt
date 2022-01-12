@@ -1,3 +1,9 @@
 - DevOps
 - CI/CD
 - Pipelines
+
+CI or Continuous Integration is having 
+developers submit their code to the "main"
+code base in small maintainable chunks (usually
+on a daily basis) and the tests should be automatically
+tested against the "main" codebase
